@@ -1,4 +1,3 @@
 # hello-world
-testi
 
-a bit about yourself
+Projekt zum Einstieg, um branches / pull requests / commits / ... zu lernen
